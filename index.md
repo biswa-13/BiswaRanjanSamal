@@ -1,5 +1,5 @@
-## My AR Blogs
-- [CP1 - HelloAR](https://biswa-13.github.io/BiswaRanjanSamal/AR-Blogs/cp1_helloAR.html)
+### My AR Blogs
+- [CP1- HelloAR](https://biswa-13.github.io/BiswaRanjanSamal/AR-Blogs/cp1_helloAR.html)
 
 - [Advanced](https://biswa-13.github.io/BiswaRanjanSamal/AR-Blogs/index.html)
 
