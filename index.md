@@ -3,6 +3,9 @@
 
 - Advanced
 1. [Geo Location Demo](https://biswa-13.github.io/BiswaRanjanSamal/AR-Blogs/index.html)
+2. [Image Marker Demo](https://biswa-13.github.io/BiswaRanjanSamal/AR-Blogs/imageBasedMarkerDemo.html)
+
+
 
 
 
